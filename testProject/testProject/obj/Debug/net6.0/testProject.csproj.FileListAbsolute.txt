@@ -1,0 +1,15 @@
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\bin\Debug\net6.0\testProject.exe
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\bin\Debug\net6.0\testProject.deps.json
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\bin\Debug\net6.0\testProject.runtimeconfig.json
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\bin\Debug\net6.0\testProject.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\bin\Debug\net6.0\ref\testProject.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\bin\Debug\net6.0\testProject.pdb
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.csproj.AssemblyReference.cache
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.AssemblyInfoInputs.cache
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.AssemblyInfo.cs
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\ref\testProject.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.pdb
+C:\Users\Ugur\Desktop\proekt\c#\testProject\testProject\obj\Debug\net6.0\testProject.genruntimeconfig.cache

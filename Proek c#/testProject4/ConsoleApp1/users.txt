@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><User_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><users><User><Record><int>0</int></Record><Login>ugur</Login><Password>2007</Password><Score>0</Score></User></users></User_list>

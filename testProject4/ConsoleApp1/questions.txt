@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions_List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <questions_History>
+    <Question>
+      <Text>Ugur is realy good boy</Text>
+      <Answers>
+        <Answer>
+          <Text>yes</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>no</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>noo</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>noo</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+  </questions_History>
+  <questions_Geography>
+    <Question>
+      <Text>ugur is boy</Text>
+      <Answers>
+        <Answer>
+          <Text>d</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>4</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>d</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>f</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+  </questions_Geography>
+</Questions_List>

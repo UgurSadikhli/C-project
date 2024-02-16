@@ -1,0 +1,15 @@
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\bin\Debug\net6.0\testProjec2.exe
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\bin\Debug\net6.0\testProjec2.deps.json
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\bin\Debug\net6.0\testProjec2.runtimeconfig.json
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\bin\Debug\net6.0\testProjec2.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\bin\Debug\net6.0\ref\testProjec2.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\bin\Debug\net6.0\testProjec2.pdb
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.csproj.AssemblyReference.cache
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.AssemblyInfoInputs.cache
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.AssemblyInfo.cs
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.csproj.CoreCompileInputs.cache
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\ref\testProjec2.dll
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.pdb
+C:\Users\Ugur\Desktop\proekt\c#\testProjec2\testProjec2\obj\Debug\net6.0\testProjec2.genruntimeconfig.cache
